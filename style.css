@@ -73,3 +73,9 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+/* Added CSS for stats-container hover effect */
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
